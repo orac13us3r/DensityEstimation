@@ -1,4 +1,4 @@
-# Density Estimation
+# PCA, Density Estimation and Bayesian Classification.
 This part of the project uses a subset of images (with modifications) from the Fashion
 MNIST dataset. The original Fashion-MNIST dataset contains 70,000 images of objects, 
 divided into 60,000 training images and 10,000 testing images. We use only images for 
